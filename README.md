@@ -1,1 +1,1 @@
-# LinuxC_Os
+control practico
